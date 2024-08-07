@@ -2,16 +2,16 @@
 
 This repository deals with the development of a Retrieval Augmented Generation (RAG) based chatbot using OpenAI Large Language Model (LLM). Specifically, three different chatbots are developed:
 
-1. Text File Description (`RAG Chatbot Text/rag_chatbot_text.ipynb`):
+*1. Text File Description (`RAG Chatbot Text/rag_chatbot_text.ipynb`):*
 
 This chat bot reads the information about the company given in the form of a text (.txt) file. It then goes on to create overlapping chunks of text, embeds these chunks and then upsert the embeddings into a PineCone Index. Finally, the user can ask a query for which a valid answer is returned by the LLM (OpenAI) by using the relevant context from the chunks stored in the Pinecone vector database
 
-2. Question Answer Pairs (`RAG Chatbot QA/rag_chatbot_qa.ipynb`):
+*2. Question Answer Pairs (`RAG Chatbot QA/rag_chatbot_qa.ipynb`):*
 
 This chat bot reads the question/answers about a specific data from an excel or csv file. It then goes on to create individual chunks of text for each question/answer pairs , embeds these chunks and then upsert the embeddings into a PineCone Index. Finally, the user can ask a query for which a relevant question/answer pair is returned from the PineCone vector database. This relevant question/answer pair is passed as a context alongside the query to the LLM (OpenAI) which generates the final answer using this specialized knowledge base
 
 
-3. Raw Chatbot (`RAG Chatbot Raw/rag_chatbot_raw.ipynb`):
+*3. Raw Chatbot (`RAG Chatbot Raw/rag_chatbot_raw.ipynb`):*
 
 This chatbot firstly creates a bot which does not use RAG. It then shows that LLM is unable to generate a valid response for the specialized knowledgebase which usually most of the companies have. Then we create a vector database of specialized knowledegebase into the Pinecone. Finally, the relevant context from Pinecone database is passed in the context of a query to the LLM after which LLM is able to generate the valid response
 
