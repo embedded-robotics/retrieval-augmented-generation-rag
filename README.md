@@ -47,4 +47,4 @@ Run the RAG Chatbot for different use cases by going into their relevant folders
 [5]. https://www.datacamp.com/tutorial/how-to-build-chatbots-using-openai-api-and-pinecone \
 [6]. https://scalexi.medium.com/implementing-a-retrieval-augmented-generation-rag-system-with-openais-api-using-langchain-ab39b60b4d9f \
 [7]. https://medium.com/@alisha3/build-your-first-llm-chatbot-77456438f57b \
-[8]. https://realpython.com/build-llm-rag-chatbot-with-langchain/ \
+[8]. https://realpython.com/build-llm-rag-chatbot-with-langchain/
