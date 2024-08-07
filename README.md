@@ -41,10 +41,10 @@ Run the RAG Chatbot for different use cases by going into their relevant folders
 
 # References
 [1]. https://docs.pinecone.io/integrations/langchain \
-[2]. https://medium.com/@3rdSon/how-to-build-rag-applications-with-pinecone-serverless-openai-langchain-and-python-d4eb263424f1#87a9\
-[3]. https://github.com/adshyam/RAG-Chatbots-with-Langchain-and-Pinecone-Vector-DB/blob/main/rag_chatbot.ipynb\
-[4]. https://docs.pinecone.io/guides/get-started/build-a-rag-chatbot\
-[5]. https://www.datacamp.com/tutorial/how-to-build-chatbots-using-openai-api-and-pinecone\
-[6]. https://scalexi.medium.com/implementing-a-retrieval-augmented-generation-rag-system-with-openais-api-using-langchain-ab39b60b4d9f\
-[7]. https://medium.com/@alisha3/build-your-first-llm-chatbot-77456438f57b\
-[8]. https://realpython.com/build-llm-rag-chatbot-with-langchain/\
+[2]. https://medium.com/@3rdSon/how-to-build-rag-applications-with-pinecone-serverless-openai-langchain-and-python-d4eb263424f1#87a9 \
+[3]. https://github.com/adshyam/RAG-Chatbots-with-Langchain-and-Pinecone-Vector-DB/blob/main/rag_chatbot.ipynb \
+[4]. https://docs.pinecone.io/guides/get-started/build-a-rag-chatbot \
+[5]. https://www.datacamp.com/tutorial/how-to-build-chatbots-using-openai-api-and-pinecone \
+[6]. https://scalexi.medium.com/implementing-a-retrieval-augmented-generation-rag-system-with-openais-api-using-langchain-ab39b60b4d9f \
+[7]. https://medium.com/@alisha3/build-your-first-llm-chatbot-77456438f57b \
+[8]. https://realpython.com/build-llm-rag-chatbot-with-langchain/ \
